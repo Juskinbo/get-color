@@ -1,0 +1,17 @@
+{
+    "name": "Get Color",
+    "version": "1.0.0",
+    "description": "get the color in your browser",
+    "manifest_version": 3,
+    "author": "Juskinbo",
+    "icons": {
+        "16": "color.png",
+        "48": "color.png",
+        "128": "color.png"
+    },
+    "action": {
+        "default_icon": "color.png",
+        "default_title": "Get Color",
+        "default_popup": "index.html"
+    }
+}
